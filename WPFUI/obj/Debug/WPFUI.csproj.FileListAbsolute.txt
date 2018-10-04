@@ -1,0 +1,15 @@
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\bin\Debug\WPFUI.exe
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\bin\Debug\WPFUI.pdb
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\App.g.cs
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\MainWindow.baml
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.exe
+C:\Eget\FirstRPG\SOSCSPRG\WPFUI\obj\Debug\WPFUI.pdb
